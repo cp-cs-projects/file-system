@@ -2,7 +2,7 @@
 
 Implemented a C program to navigate through a simulated file system with files and directories, storing metadata as a simplified inode (an index and a type- dir/file)
 
-  *run instructions:* ./fs_simulator <file_name>  
+  *run instructions: (1) make , (2) ./fs_simulator <file_name>  
     note: this project includes two folders to try this with. An empty folder “empty” and a test folder “fs”
   
 programmed the linux commands 
