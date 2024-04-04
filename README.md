@@ -1,4 +1,4 @@
-# Unix File System Simulator  
+# Linux File System Simulator  
 
 Implemented a C program to navigate through a simulated file system with files and directories, storing metadata as a simplified inode (an index and a type- dir/file)
 
